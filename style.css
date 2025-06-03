@@ -47,13 +47,13 @@ nav a:hover {
   height: 100vh;
 }
 .image-dragon {
-  background-image: url(/images/dragon.jpg);
+  background-image: url(./images/dragon.jpg);
 }
 .image-adventure {
-  background-image: url(/images/dragon2.jpg);
+  background-image: url(./images/dragon2.jpg);
 }
 .image-fantasy {
-  background-image: url(/images/highfantasy.jpg);
+  background-image: url(./images/highfantasy.jpg);
 }
 .HighFantasy {
   position: absolute;
